@@ -82,3 +82,20 @@ Haga un programa que reciba como entrada:
 a) el número de hormigas que hay en un momento dado en la isla
 b) la cantidad de meses a considerar, y calcule la población de hormigas
 después de esa cantidad de meses.*/
+
+// const ants = Number(prompt('how many ants are?'));
+// const months = Number(prompt('how many months?'));
+// let newAnts = ants; /*esta parte del ejercicio me costo y tuve que
+//  ver el video de la clasde para
+// saber que se necesita esta variable para hacer la iteracion */
+// let i = 1;
+
+// while (i <= months) {
+//   if (newAnts > 24000) {
+//     newAnts = newAnts * 1.21 - 4800; 
+//   } else {
+//     newAnts = newAnts * 1.33 - 4800;
+//   }
+//   i++
+// } 
+// alert (`after ${months} months, the population of ants it is ${newAnts}`);
